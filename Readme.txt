@@ -21,7 +21,5 @@
  - 배경음악과 효과음 포함
 
 4. 제출 파일 구성
- - index.html : 게임 실행 파일 (HTML + JS + CSS 포함)
+ - game.html : 게임 실행 파일 (HTML + JS + CSS 포함)
  - README.txt : 실행 방법 및 설명
-
-문의사항은 제출 후 연락주세요.
